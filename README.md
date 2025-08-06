@@ -17,6 +17,16 @@ The dashboard enables users to drill down into key aspects of gun violence in th
 - `dashboard_image.png`: Screenshot of the dashboard
 - `Boston_Shooting_Incidents.pdf`: Static version (optional for viewing)
 
+## 📂 Data Source
+
+The dataset used in this project is publicly available from the City of Boston's open data portal:
+
+🔗 [Boston Shooting Incidents Dataset (Analyze Boston)](https://data.boston.gov/dataset/shootings)
+
+- **CSV File**: Contains details of incidents where victims were struck by bullets
+- **Data Dictionary**: Explains each field in the dataset
+
+
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
 - Power Query
